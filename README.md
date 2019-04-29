@@ -1,2 +1,2 @@
 # syams-resolusi
-Repositori sebagai resolusi dari Syams sebagai web developer
+Repositori sebagai resolusi dari Syams menjadi web developer sukses
